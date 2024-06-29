@@ -56,21 +56,19 @@
     },
     {
       "availableSizes": [
-        "ML",
-        "S",
-        "XL",
-        "XXL"
+        "XXL",
+        "XS"
       ],
       "currencyFormat": "$",
       "currencyId": "USD",
-      "description": "小香风套装裙两件套气质韩版高级感秋季丝绒上衣短裙两件套连衣裙",
-      "id": 4,
+      "description": "两件套装春秋学院撞色V领无袖毛衣背心女韩版宽松针织马甲衬衫潮",
+      "id": 16,
       "installments": 3,
       "isFreeShipping": true,
-      "price": 79.9,
-      "sku": 171967573,
-      "title": "小香风套装裙两件套气质韩版高级感秋季丝绒上衣短裙两件套连衣裙",
-      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/231021_3jakk99eh4af78h7g7l4013257bkc_1280x1280.jpg"
+      "price": 108,
+      "sku": 2259513331,
+      "title": "两件套装春秋学院撞色V领无袖毛衣背心女韩版宽松针织马甲衬衫潮",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/55cf19/231008_33eldhff6cc0ch5d9ab5laha4kg45_640x960.jpg"
     },
     {
       "availableSizes": [
@@ -141,20 +139,23 @@
     },
     {
       "availableSizes": [
+        "ML",
+        "S",
         "XL",
-        "ML"
+        "XXL"
       ],
       "currencyFormat": "$",
       "currencyId": "USD",
-      "description": "小香风春季女装针织毛衣外套宽松时尚款LYZ3331",
-      "id": 9,
+      "description": "小香风套装裙两件套气质韩版高级感秋季丝绒上衣短裙两件套连衣裙",
+      "id": 4,
       "installments": 3,
       "isFreeShipping": true,
-      "price": 999,
-      "sku": 1719633536157,
-      "title": "小香风春季女装针织毛衣外套宽松时尚款LYZ3331",
-      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/230206_288dj29l359i9i4fjlgced22gi96c_800x1200.jpg"
+      "price": 79.9,
+      "sku": 171967573,
+      "title": "小香风套装裙两件套气质韩版高级感秋季丝绒上衣短裙两件套连衣裙",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/231021_3jakk99eh4af78h7g7l4013257bkc_1280x1280.jpg"
     },
+   
     {
       "availableSizes": [
         "M",
@@ -271,19 +272,20 @@
     },
     {
       "availableSizes": [
-        "XXL",
-        "XS"
+        "XL",
+        "ML"
       ],
       "currencyFormat": "$",
       "currencyId": "USD",
-      "description": "两件套装春秋学院撞色V领无袖毛衣背心女韩版宽松针织马甲衬衫潮",
-      "id": 16,
+      "description": "西西里#韩国东大门新款方领收腰连衣裙褶皱修身短袖纯色开叉裙子",
+      "id": 9,
       "installments": 3,
       "isFreeShipping": true,
-      "price": 108,
-      "sku": 2259513331,
-      "title": "两件套装春秋学院撞色V领无袖毛衣背心女韩版宽松针织马甲衬衫潮",
-      "coverImage": "https://s10.mogucdn.com/mlcdn/55cf19/231008_33eldhff6cc0ch5d9ab5laha4kg45_640x960.jpg"
+      "price": 999,
+      "sku": 1719633536157,
+      "title": "西西里#韩国东大门新款方领收腰连衣裙褶皱修身短袖纯色开叉裙子",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/230504_5f4e78fe3g5aee0d0gc8810518f89_640x960.jpg"
     }
+   
   ]
 }
