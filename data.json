@@ -1,0 +1,289 @@
+{
+  "products": [
+    {
+      "availableSizes": [
+        "ML",
+        "L",
+        "S",
+        "XXL",
+        "XS"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "2022春秋新款设计感蕾丝拼接长袖套头毛衣女宽松慵懒风针织衫",
+      "id": 1,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 999,
+      "sku": 1719675736157,
+      "title": "2022春秋新款设计感蕾丝拼接长袖套头毛衣女宽松慵懒风针织衫",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/220820_5kjkc0a76a98c25b2jjgb9el00hia_750x1000.jpg"
+    },
+    {
+      "availableSizes": [
+        "L",
+        "S",
+        "XS",
+        "M"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "春季新款韩版不规则设计宽松百搭显针织衫毛衣女YSX1067",
+      "id": 2,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 999,
+      "sku": 1719675736157,
+      "title": "春季新款韩版不规则设计宽松百搭显针织衫毛衣女YSX1067",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/230201_1flkgk3c69d89eb77dh5ja4laee8k_750x1000.jpg"
+    },
+    {
+      "availableSizes": [
+        "S",
+        "L",
+        "ML"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "2021新款女装卫衣宽松韩版春秋薄款假两件上衣潮ins外套",
+      "id": 3,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 59.9,
+      "sku": 1719675736157,
+      "title": "2021新款女装卫衣宽松韩版春秋薄款假两件上衣潮ins外套",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200729_7g173k985bch6fc686dc79jj274fc_4501x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "ML",
+        "S",
+        "XL",
+        "XXL"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "春秋季休闲运动套装女新款韩版宽松连帽卫衣大码运动服两件套",
+      "id": 4,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 79.9,
+      "sku": 1719675736157,
+      "title": "春秋季休闲运动套装女新款韩版宽松连帽卫衣大码运动服两件套",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200828_0elak4123h7dk0f3i6dkka8jk0gg6_4464x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "M",
+        "ML",
+        "XXL",
+        "XS"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "含棉秋季卫衣女学生薄款宽松韩版潮ins慵懒风bf拉链外套",
+      "id": 5,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 49.9,
+      "sku": 1719675736157,
+      "title": "含棉秋季卫衣女学生薄款宽松韩版潮ins慵懒风bf拉链外套",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200902_088igb5ld3l9i1155cil51lf770bg_4464x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "S"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "学生面包棉服女中长款2021年新款潮韩版宽松棉衣棉袄外套冬季",
+      "id": 6,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 312.86,
+      "sku": 1719675736157,
+      "title": "学生面包棉服女中长款2021年新款潮韩版宽松棉衣棉袄外套冬季",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/201023_24a2dhjj1gi9ch2gd4k8j8hi1ad90_640x960.jpg"
+    },
+    {
+      "availableSizes": [
+        "ML",
+        "XXL"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "秋季韩版新款宽松短款连帽小个子休闲运动长袖卫衣外套女学生",
+      "id": 7,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 49.9,
+      "sku": 1719675736157,
+      "title": "秋季韩版新款宽松短款连帽小个子休闲运动长袖卫衣外套女学生",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200816_3l3b23dj64bha9b83kia8j1if6fkd_5251x6999.jpg"
+    },
+    {
+      "availableSizes": [
+        "XXL",
+        "XL",
+        "S",
+        "ML"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "立体织花毛衣开衫春季上新长袖针织衫上衣  LYZ3316",
+      "id": 8,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 999,
+      "sku": 1719675736157,
+      "title": "立体织花毛衣开衫春季上新长袖针织衫上衣  LYZ3316",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/230217_1i4cg0341eii9h9f5l6gee4k14aci_1080x1606.jpg"
+    },
+    {
+      "availableSizes": [
+        "XL",
+        "ML"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "小香风春季女装针织毛衣外套宽松时尚款LYZ3331",
+      "id": 9,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 999,
+      "sku": 1719675736157,
+      "title": "小香风春季女装针织毛衣外套宽松时尚款LYZ3331",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/230206_288dj29l359i9i4fjlgced22gi96c_800x1200.jpg"
+    },
+    {
+      "availableSizes": [
+        "M",
+        "XXL",
+        "ML",
+        "L",
+        "XL",
+        "S"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "毛衣开衫女士外套春秋新款韩版V领宽松百搭短款冬季厚针织衫外搭",
+      "id": 10,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 59.9,
+      "sku": 1719675736157,
+      "title": "毛衣开衫女士外套春秋新款韩版V领宽松百搭短款冬季厚针织衫外搭",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200817_3j28l9ik4kabcde8l6fjbe534f956_4501x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "ML",
+        "XXL",
+        "XS",
+        "XL",
+        "L",
+        "M"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "卫衣女士新款春秋装薄款宽松韩版潮ins春季假两件洋气上衣",
+      "id": 11,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 49.9,
+      "sku": 1719675736157,
+      "title": "卫衣女士新款春秋装薄款宽松韩版潮ins春季假两件洋气上衣",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200904_845hb7gj954helh5fk8a5l166cb2j_4464x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "ML",
+        "M",
+        "XS",
+        "XXL",
+        "XL",
+        "L",
+        "S"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "高领毛衣女秋冬季套头宽松针织衫韩版黑色长袖前短后长加厚打底衫",
+      "id": 12,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 59.9,
+      "sku": 1719675736157,
+      "title": "高领毛衣女秋冬季套头宽松针织衫韩版黑色长袖前短后长加厚打底衫",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/191024_4ic1j984e6a8995eg6gij511b82e4_4501x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "ML"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "网红西服套装女2020秋季新款时尚气质小西装外套三件套职业装",
+      "id": 13,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 89.9,
+      "sku": 1719675736157,
+      "title": "网红西服套装女2020秋季新款时尚气质小西装外套三件套职业装",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200830_12kik27h73kgec9h6j3e8dh9fj7b5_4464x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "L",
+        "XXL",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "针织开衫女新款外套女韩版宽松学生显瘦百搭加厚毛衣外套外搭",
+      "id": 14,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 59.9,
+      "sku": 1719675736157,
+      "title": "针织开衫女新款外套女韩版宽松学生显瘦百搭加厚毛衣外套外搭",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200819_0jkb4efk3d2f64h13jc5b5afebail_4501x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "XS",
+        "XL",
+        "M",
+        "ML"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "2020春秋新款假两件卫衣女印花宽松韩版百搭ins外套女潮",
+      "id": 15,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 49.9,
+      "sku": 1719675736157,
+      "title": "2020春秋新款假两件卫衣女印花宽松韩版百搭ins外套女潮",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200729_848265ee14g05a7jl8b20dgla31d7_4501x5999.jpg"
+    },
+    {
+      "availableSizes": [
+        "XXL",
+        "XS"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "USD",
+      "description": "下架",
+      "id": 16,
+      "installments": 3,
+      "isFreeShipping": true,
+      "price": 108,
+      "sku": 1719675736157,
+      "title": "下架",
+      "coverImage": "https://s10.mogucdn.com/mlcdn/c45406/200102_8b778ea438h33e2ll5369ggdlc2g2_720x960.jpg"
+    }
+  ]
+}
